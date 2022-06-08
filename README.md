@@ -41,7 +41,7 @@ Download the CelebA dataset and put images and attributes text file in dataset f
 # System Overview
 
 <p align="center">
-  <img src="examples/system_overview.png" align="center" width="1000" height="400" />
+  <img src="models/system_overview.png" align="center" width="600" height="400" />
 </p>
 
 
