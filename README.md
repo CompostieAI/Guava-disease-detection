@@ -114,5 +114,5 @@ help(function_name)
 ```
 
 # References
-* [https://data.mendeley.com/datasets/x84p2g3k6z/1] (https://data.mendeley.com/datasets/x84p2g3k6z/1)
+* [Guava Leaves and Fruits Dataset for Guava Disease](https://data.mendeley.com/datasets/x84p2g3k6z/1)
 * [Optimize machine learning models](https://www.tensorflow.org/model_optimization)
